@@ -239,4 +239,30 @@
     "lose": 0,
     "event": 0
   }
+
+  {
+    "id": 21,
+    "room name": "Joe's Stall",
+    "sttory": "You come across Joe the Trader's stall.",
+    "navigation": "Press 1 to buy an item, Press 2 to sell an item.",
+    "door 1": 1,
+    "door 2": 1,
+    "door 3": 1,
+    "win": 0,
+    "lose": 0,
+    "event": 50
+},
+{
+    "id": 22,
+    "room name": "Maria's Gambling Den",
+    "sttory": "You find yourself at Maria's Gambling Den.",
+    "navigation": "Press 1 to play a game, Press 2 to leave.",
+    "door 1": 1,
+    "door 2": 1,
+    "door 3": 1,
+    "win": 0,
+    "lose": 0,
+    "event": 60
+}
+
 ]
